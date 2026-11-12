@@ -11,5 +11,10 @@ _freeze/
 .quarto/
 *.quarto_ipynb
 
+# Climate data cached by a lab; downloaded, never committed.
+*.zarr
+*.zarr.partial
+data/
+
 # OS noise
 .DS_Store

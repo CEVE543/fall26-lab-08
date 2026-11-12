@@ -61,7 +61,7 @@ In the instructor repo, the `check-labs` skill runs that and fixes what it repor
 
 A short notebook, shipped pre-filled and working, plus a few exercises that modify or extend it.
 Students are expected to use an LLM on the exercises.
-A lab is started together in the Friday session and due a week later, as a rendered PDF and a repository link on Canvas.
+A lab is started together in the Friday session and due a week later (a two-week lab, two weeks later), as a rendered PDF and a repository link on Canvas.
 It is worth 3 points, graded on the answers the student writes in the **Your answer** blocks rather than on the code.
 
 Keep the notebook runnable end to end at all times.
